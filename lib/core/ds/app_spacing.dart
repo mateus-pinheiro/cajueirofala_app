@@ -186,7 +186,7 @@ class AppInsets {
     vertical: AppSpacing.md,
   );
 
-  static const EdgeInsets card = EdgeInsets.all(AppSpacing.md);
+  static const EdgeInsets card = horizontalXxl;
   
   static const EdgeInsets listItem = EdgeInsets.symmetric(
     horizontal: AppSpacing.md,

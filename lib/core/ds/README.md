@@ -16,7 +16,7 @@ The design system is organized into the following modules:
 ### Import the Design System
 
 ```dart
-import 'package:cajueiro_fala_app/core/design_system/design_system.dart';
+import 'package:cajueiro_fala_app/core/ds/design_system.dart';
 ```
 
 ### Using Colors
